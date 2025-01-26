@@ -1,6 +1,6 @@
 # beeper-ingestor
 
-A Matrix message search service that uses [gomuks](https://github.com/tulir/gomuks) internals to save incoming events and provides a REST endpoint for searching messages.
+A Matrix message search service that uses [gomuks](https://github.com/tulir/gomuks) internals to save incoming events and provides a REST endpoint for searching messages. **Hightly experimental and not for production use.**
 
 > 🤖 **Note**: This repository, including this README, was primarily generated using Large Language Models (LLMs). Code has been tested and works as intended though!
 
