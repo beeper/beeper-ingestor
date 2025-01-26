@@ -1,0 +1,14 @@
+.idea/
+target/
+.tmp/
+/ingestor
+start
+run
+*.exe
+*.deb
+coverage.out
+coverage.html
+deb/usr
+*.prof
+*.db*
+*.log
